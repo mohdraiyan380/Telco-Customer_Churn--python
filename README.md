@@ -14,7 +14,6 @@ The analysis was performed using the following tools and libraries:
 - 📊 **pandas** – For data manipulation and cleaning
 - 📈 **matplotlib** & **seaborn** – For data visualization
 - 🔢 **numpy** – For numerical operations
-- 🧮 **scikit-learn** – For initial data preprocessing and potential modeling
 
 ## 📂 Data Source
 
